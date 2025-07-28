@@ -16,6 +16,23 @@ This is the backend for the **Job Board** application. It provides RESTful APIs 
 - CORS
 - dotenv
 
+---
+
+## 📦 Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/RaisanJMR/job-board-backend.git
+cd job-board-backend
+
+# 2. Install dependencies
+npm install
+
+# 3. Create a .env file in root and add the following variables
+PORT=8080
+NODE_ENV=development
+MONGODB_URI=<db uri>
+```
 ## Available API Endpoints
 
 
