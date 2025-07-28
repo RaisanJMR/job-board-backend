@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "type": "Full-time",
+    "location": "San Francisco, CA",
+    "description": "We're looking for a skilled Frontend Developer to join our team."
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "StartupXYZ",
+    "type": "Contract",
+    "location": "Remote",
+    "description": "Join our backend team to build scalable APIs and microservices for our growing platform."
+  },
+  {
+    "title": "Product Manager",
+    "company": "InnovateLab",
+    "type": "Full-time",
+    "location": "New York, NY",
+    "description": "Lead product strategy and work with cross-functional teams to deliver exceptional products."
+  }
+]
